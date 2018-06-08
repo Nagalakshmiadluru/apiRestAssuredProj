@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestSuiteApi">
+    <test name="smokeTest" >
+        <classes>
+            <class name="com.merchantesolutions.api.ApiTests" />
+        </classes>
+    </test>
+</suite>

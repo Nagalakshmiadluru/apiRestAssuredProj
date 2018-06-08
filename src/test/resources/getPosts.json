@@ -1,0 +1,98 @@
+﻿[
+  {
+    "userId": 22,
+    "id": 16520,
+    "title": "Updated title for PUT call for Posts",
+    "body": "This is the body for my Posts test/1"
+  },
+  {
+    "userId": 22,
+    "id": 165200,
+    "title": "Updated title for PUT call for Posts",
+    "body": "This is the body for my Posts test/1"
+  },
+  {
+    "userId": 22,
+    "id": 1652000,
+    "title": "Updated title for PUT call for Posts",
+    "body": "This is the body for my Posts test/1"
+  },
+  {
+    "userId": 22,
+    "id": 16502000,
+    "title": "Updated title for PUT call for Posts",
+    "body": "This is the body for my Posts test/1"
+  },
+  {
+    "userId": 22,
+    "id": 165020000,
+    "title": "Updated title for PUT call for Posts",
+    "body": "Test Body1"
+  },
+  {
+    "userId": 22,
+    "id": 1650200000,
+    "title": "Sample Posts for validation",
+    "body": "This is the body for my Posts test/1"
+  },
+  {
+    "userId": 22,
+    "id": 2891028,
+    "title": "Testerss Title1",
+    "body": "Test Body1"
+  },
+  {
+    "userId": 22,
+    "id": 28910281,
+    "title": "Testerss Title1",
+    "body": "Test Body1"
+  },
+  {
+    "userId": 22,
+    "id": 28910282,
+    "title": "Testerss Title1",
+    "body": "Test Body1"
+  },
+  {
+    "userId": 22,
+    "id": 28910283,
+    "title": "Testerss Title1",
+    "body": "Test Body1"
+  },
+  {
+    "userId": 22,
+    "id": 28910284,
+    "title": "Testerss Title1",
+    "body": "Test Body1"
+  },
+  {
+    "userId": 22,
+    "id": 28910285,
+    "title": "Testerss Title1",
+    "body": "Test Body1"
+  },
+  {
+    "userId": 22,
+    "id": 28910286,
+    "title": "Updated title for PUT call for Posts",
+    "body": "Test Body1"
+  },
+  {
+    "userId": 22,
+    "id": 28910287,
+    "title": "Updated title for PUT call for Posts",
+    "body": "Test Body1"
+  },
+  {
+    "userId": 22,
+    "id": 28910202,
+    "title": "Testerss Title2",
+    "body": "Test Body1"
+  },
+  {
+    "userId": 22,
+    "id": 289102002,
+    "title": "Testerss Title2",
+    "body": "Test Body1"
+  }
+]
